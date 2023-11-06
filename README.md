@@ -22,3 +22,6 @@ stage
 pasar al commit (version 1.0)
 
 git commit -m "READMEhasta al punto 6"
+
+ git commit -a -m "READMEhasta al punto 7"git status
+ 
